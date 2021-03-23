@@ -1,2 +1,2 @@
 # Calculadora_v01
-Calculadora na sua primeira versão, realizada durantes as aulas da faculdade.
+Aplicativo de uma calculadora na sua primeira versão, realizada durantes as aulas da faculdade.
